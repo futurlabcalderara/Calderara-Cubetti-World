@@ -647,6 +647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2022-04-09 16:10:15 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2022-03-12 16:55:35 +0100"
@@ -845,6 +851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2022-04-09 15:50:40 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2022-02-26 18:10:41 +0100"
@@ -884,6 +896,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2022-02-12 16:11:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2022-04-09 15:50:40 +0200"
     },
     "done": true
   },

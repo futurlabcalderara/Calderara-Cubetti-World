@@ -53,6 +53,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2022-04-09 17:17:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2022-04-09 17:10:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2022-01-29 17:31:53 +0100"
@@ -86,6 +98,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2022-01-29 17:31:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2022-04-09 16:35:43 +0200"
     },
     "done": true
   },
@@ -161,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2022-04-09 17:10:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2022-01-29 17:31:53 +0100"
@@ -188,6 +212,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2022-02-12 15:59:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2022-04-09 17:17:53 +0200"
     },
     "done": true
   },
@@ -221,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2022-04-09 17:10:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2022-03-05 16:10:07 +0100"
@@ -242,6 +278,12 @@
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2022-02-26 18:10:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2022-04-09 16:38:45 +0200"
     },
     "done": true
   },
@@ -443,6 +485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2022-04-09 16:35:43 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2022-03-26 16:26:01 +0100"
@@ -470,6 +518,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2022-02-12 15:59:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2022-04-09 17:17:53 +0200"
     },
     "done": true
   },
@@ -503,6 +557,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2022-04-09 16:35:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2022-04-09 17:10:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2022-01-29 17:16:56 +0100"
@@ -512,6 +578,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2022-01-29 17:16:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2022-04-09 17:17:53 +0200"
     },
     "done": true
   },
@@ -545,6 +617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2022-04-09 17:10:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2022-01-29 17:31:53 +0100"
@@ -554,6 +632,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2022-03-26 16:26:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2022-04-09 17:17:53 +0200"
     },
     "done": true
   },
@@ -611,6 +695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2022-04-09 17:17:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2022-02-26 18:10:01 +0100"
@@ -620,6 +710,12 @@
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2022-02-26 18:10:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2022-04-09 17:17:53 +0200"
     },
     "done": true
   },
@@ -713,6 +809,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2022-04-09 17:10:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2022-01-29 17:16:56 +0100"
@@ -722,6 +824,24 @@
   "minecraft:recipes/redstone/crimson_trapdoor": {
     "criteria": {
       "has_planks": "2022-02-26 18:10:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2022-04-09 17:10:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2022-04-09 17:10:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2022-04-09 17:17:53 +0200"
     },
     "done": true
   },
@@ -743,9 +863,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2022-04-09 17:10:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2022-02-26 17:36:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2022-04-09 16:35:43 +0200"
     },
     "done": true
   },
@@ -845,9 +977,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2022-04-09 17:10:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2022-01-29 17:06:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2022-04-09 17:10:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2022-04-09 17:10:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2022-04-09 17:17:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2022-04-09 17:17:53 +0200"
     },
     "done": true
   },
